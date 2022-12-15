@@ -1,0 +1,34 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch PowerPoint (x64 debug)",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "POWERPNT.EXE",
+            "cwd": "C:\\office\\Install\\x64\\debug\\devclient\\FILES\\PFILES\\MSOFFICE\\Office16",
+            "logging": {
+                "moduleLoad": false,
+                "engineLogging": false,
+                "exceptions": false,
+                "processExit": false,
+                "threadExit": false
+            },
+            "internalConsoleOptions": "openOnSessionStart",
+            "sourceFileMap": {
+                // Source files lose the beginning of their path in symbols, you can remap those files using
+                // something like the following. It isn't perfect, and requires a bit of work to find patterns
+                // that work correctly for the files you want (target/import files have the same path prefix, so 
+                // they aren't unique enough to correctly split.
+                "otools": "${workspaceFolder}\\otools",
+                "gfx": "${workspaceFolder}\\gfx",
+                "graphics": "${workspaceFolder}\\graphics",
+                // "x64": "${env:TARGETROOT}\\x64",
+                // ".A": "${env:NugetMachineInstallRoot}\\.A",
+                // "windowssdkheaders.10.0.21320": "${env:NugetMachineInstallRoot}\\windowssdkheaders.10.0.21320",
+                // "*":  "${env:ICACHEROOT}\\x64\\debug",
+            },
+            "preLaunchTask": "Copy Babylon JavaScript files"
+        }
+    ]
+}
