@@ -5,8 +5,8 @@
             "name": "Launch PowerPoint (x64 debug)",
             "type": "cppvsdbg",
             "request": "launch",
-            "program": "POWERPNT.EXE",
-            "cwd": "C:\\office\\Install\\x64\\debug\\devclient\\FILES\\PFILES\\MSOFFICE\\Office16",
+            "program": "C:\\Program Files\\Microsoft Office\\root\\Office16\\powerpnt.exe",
+            "cwd": "C:\\Program Files\\Microsoft Office\\root\\Office16",
             "logging": {
                 "moduleLoad": false,
                 "engineLogging": false,
