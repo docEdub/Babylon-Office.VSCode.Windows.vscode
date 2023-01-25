@@ -29,6 +29,7 @@
                 // "windowssdkheaders.10.0.21320": "${env:NugetMachineInstallRoot}\\windowssdkheaders.10.0.21320",
                 // "*":  "${env:ICACHEROOT}\\x64\\debug",
             },
+            // If this prelaunch task fails, then it's probably because the permissions for C:\Program Files\Microsoft Office\root\Office16 don't allow "Users" to write to it.
             "preLaunchTask": "Copy Babylon JavaScript files"
         }
     ]

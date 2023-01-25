@@ -2,6 +2,8 @@
 
 set "SCRIPTS_DIR=C:\Program Files\Microsoft Office\root\Office16\Scripts"
 
+icacls "%SCRIPTS_DIR%" /GRANT Everyone:F
+
 if not exist "%SCRIPTS_DIR%\" (
     mkdir "%SCRIPTS_DIR%"
 )
