@@ -1,0 +1,429 @@
+-------------------------------------------------------------------
+You may only use the C/C++ Extension for Visual Studio Code
+with Visual Studio Code, Visual Studio or Visual Studio for Mac
+software to help you develop and test your applications.
+-------------------------------------------------------------------
+NetUI BinaryReader - Error : ElementListener not found: GalleryRefreshButtonInputHandler
+ReactNative ['sdx_collabml.app'] (warning): 'Require cycle: ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\EventFlagFiller.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js
+
+Require cycles are allowed, but can result in uninitialized values. Consider refactoring to remove the need for a cycle.'
+ReactNative ['sdx_collabml.app'] (warning): 'Require cycle: ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\SimpleTelemetryLogger.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js
+
+Require cycles are allowed, but can result in uninitialized values. Consider refactoring to remove the need for a cycle.'
+onecoreuap\base\appmodel\search\structuredquery\schemaengine\schemaengine.cpp(3058)\StructuredQuery.dll!00007FFEC128326E: (caller: 00007FFEC1264FF2) ReturnHr(2) tid(4e80) 8000FFFF Catastrophic failure
+    CallContext:[\SchemaBinaryLoadBinary]
+onecoreuap\base\appmodel\search\structuredquery\schemaengine\schemaengine.cpp(3058)\StructuredQuery.dll!00007FFEC128326E: (caller: 00007FFEC1264FF2) ReturnHr(1) tid(59f0) 8000FFFF Catastrophic failure
+    CallContext:[\SchemaBinaryLoadBinary]
+onecoreuap\base\appmodel\search\structuredquery\schemaengine\schemaengine.cpp(3058)\StructuredQuery.dll!00007FFEC128326E: (caller: 00007FFEC1264FF2) ReturnHr(3) tid(23bc) 8000FFFF Catastrophic failure
+    CallContext:[\SchemaBinaryLoadBinary]
+onecoreuap\shell\propsys\memorymappedcache\version.cpp(210)\PROPSYS.dll!00007FFEE8C09637: (caller: 00007FFEE8BCD9E7) ReturnHr(1) tid(59f0) 80070490 Element not found.
+onecoreuap\shell\propsys\memorymappedcache\version.cpp(210)\PROPSYS.dll!00007FFEE8C09637: (caller: 00007FFEE8BCD9E7) ReturnHr(2) tid(23bc) 80070490 Element not found.
+onecoreuap\shell\propsys\memorymappedcache\version.cpp(210)\PROPSYS.dll!00007FFEE8C09637: (caller: 00007FFEE8BCD9E7) ReturnHr(3) tid(4e80) 80070490 Element not found.
+onecoreuap\shell\propsys\memorymappedcache\version.cpp(210)\PROPSYS.dll!00007FFEE8C09637: (caller: 00007FFEE8BCD9E7) ReturnHr(4) tid(4e80) 80070490 Element not found.
+ReactNative ['sdx_collabml.app'] (warning): '`new NativeEventEmitter()` was called with a non-null argument without the required `addListener` method.'
+ReactNative ['sdx_collabml.app'] (warning): '`new NativeEventEmitter()` was called with a non-null argument without the required `removeListeners` method.'
+NetUI BinaryReader - Error : ElementListener not found: GalleryRefreshButtonInputHandler
+MsoMakeFindFile: Thread 9092 never called DLL_THREAD_ATTACH on MSO97, assigning 0000000000000000 as context
+MsoMakeFindFile: Thread 9092 never called DLL_THREAD_ATTACH on MSO97, assigning 0000000000000000 as context
+*** ASSERT FAILED: Input parameter LanguagesBuffer for function RtlSetThreadPreferredUILanguages is not a valid multi-string!
+mincore\com\oleaut32\dispatch\ups.cpp(2126)\OLEAUT32.dll!00007FFEF0B3469C: (caller: 00007FFEF0B3498A) ReturnHr(1) tid(2384) 8002801D Library not registered.
+onecore\vm\dv\storage\plan9\rdr\dll\util.cpp(99)\p9np.dll!00007FFEBC18F0CC: (caller: 00007FFEBC1893B0) LogHr(1) tid(6068) C0000034     Msg:[瑎牃慥整楆敬☨敤楶散‬奓䍎剈乏婉ⱅ☠瑡牴扩瑵獥‬椦卯慴畴ⱳ渠汵灬牴‬䥆䕌䅟呔䥒啂䕔也剏䅍ⱌ⠠䥆䕌卟䅈䕒剟䅅⁄⁼䥆䕌卟䅈䕒坟䥒䕔簠䘠䱉彅䡓剁彅䕄䕌䕔Ⱙ䘠䱉彅偏久‬䥆䕌卟乙䡃佒低单䥟彏低䅎䕌呒‬畮汬瑰Ⱳ〠)]
+onecore\com\combase\dcomrem\security.cxx(2999)\combase.dll!00007FFEF1BC505E: (caller: 00007FFEAC8DF80A) ReturnHr(1) tid(3de4) 80010117 Call context cannot be accessed after call completed.
+onecore\com\combase\dcomrem\security.cxx(2999)\combase.dll!00007FFEF1BC505E: (caller: 00007FFEAC8DF80A) ReturnHr(2) tid(3de4) 80010117 Call context cannot be accessed after call completed.
+onecore\com\combase\objact\objact.cxx(4070)\combase.dll!00007FFEF1B75175: (caller: 00007FFEF1B7CEBA) ReturnHr(3) tid(62f8) 80040154 Class not registered
+onecore\com\combase\objact\objact.cxx(4070)\combase.dll!00007FFEF1B75175: (caller: 00007FFEF1B7CEBA) ReturnHr(4) tid(62f8) 80040154 Class not registered
+onecore\com\combase\objact\objact.cxx(4070)\combase.dll!00007FFEF1B75175: (caller: 00007FFEF1B7CEBA) ReturnHr(5) tid(62f8) 80040154 Class not registered
+BJS - [14:58:57]: Babylon Native (v5.35.1) launched
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:00.0003:  0x59e4 -- Gfx::Model3DScene::Model3DScene C:\office\src\gfx\model3d\model3dscene.cpp(226) ...
+    this = 0x00000225CFB17E90
+DEBUG: Encode Base64
+DEBUG: ImportMesh
+NetUI BinaryReader - Error : ElementListener not found: GalleryRefreshButtonInputHandler
+DEBUG: animationGroups.length = 3
+DEBUG: onSuccess
+
+[trc] 00:00:01.0641:  0x2384 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x00000225CD77FAC0
+    scene = 0x00000225CFB17E90
+    renderMode = RasterizeE2o
+Unable to start IDXGraphicsAnalysis
+DEBUG: init texture size = [1280, 853]
+
+    renderer = 0x00000225CD77FAC0
+
+[trc] 00:00:00.0003:  0x2384 -- OSpectre::Babylon::Renderer::Render C:\office\src\graphics\spectre\babylon_renderer.cpp(165) ...
+    this = 0x00000225C8943C80
+    viewport: xy = [0, 0], size = [1280, 853]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 1280
+    viewportHeight = 853
+    fov = 0.523394
+camera mode = 0, position = {X: 0 Y: 0 Z: 1.5862231254577637}, target = {X: 0 Y: 0 Z: 0}, upVector = {X: 0 Y: 1 Z: 0}, fov = 0.5233942635519322
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:03.0142:  0x2384 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x00000225CD77FAC0
+    renderMode = RasterizeE2o
+
+[trc] 00:00:03.0601:  0x2384 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x00000225D1BE0140
+    scene = 0x00000225CFB17E90
+    renderMode = RasterizeE2o
+
+DEBUG: init texture size = [447, 474]
+
+    renderer = 0x00000225D1BE0140
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:01.0942:  0x2384 -- OSpectre::Babylon::Renderer::Render C:\office\src\graphics\spectre\babylon_renderer.cpp(165) ...
+    this = 0x00000225C8D69140
+    viewport: xy = [-203.167, -189.667], size = [853.333, 853.333]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 853.333
+    viewportHeight = 853.333
+    fov = 0.785398
+camera mode = 0, position = {X: 0 Y: 0 Z: 1.5862231254577637}, target = {X: 0 Y: 0 Z: 0}, upVector = {X: 0 Y: 1 Z: 0}, fov = 0.7853981633974483
+
+[trc] 00:00:03.0702:  0x2384 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x00000225D1BE0140
+    renderMode = RasterizeE2o
+
+[trc] 00:00:03.0725:  0x2384 -- Gfx::Model3DScene::~Model3DScene C:\office\src\gfx\model3d\Model3D.h(49) ...
+    this = 0x00000225CFB17E90
+
+[trc] 00:00:03.0781:  0x2384 -- Gfx::Model3DScene::Model3DScene C:\office\src\gfx\model3d\model3dscene.cpp(226) ...
+    this = 0x00000225D135D2E0
+DEBUG: Encode Base64
+DEBUG: ImportMesh
+DEBUG: animationGroups.length = 3
+DEBUG: onSuccess
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:05.0119:  0x2384 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x00000225CD77F9D0
+    scene = 0x00000225D135D2E0
+    renderMode = Play3DAnimation
+
+DEBUG: init texture size = [480, 480]
+
+    renderer = 0x00000225CD77F9D0
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:03.0489:  0x2384 -- OSpectre::Babylon::Renderer::Render C:\office\src\graphics\spectre\babylon_renderer.cpp(165) ...
+    this = 0x00000225C8D657E0
+    viewport: xy = [0.833333, 0.833333], size = [480, 480]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = false
+    viewportWidth = 481.667
+    viewportHeight = 481.667
+    fov = 0.787852
+camera mode = 0, position = {X: 0 Y: 0 Z: 1.5862231254577637}, target = {X: 0 Y: 0 Z: 0}, upVector = {X: 0 Y: 1 Z: 0}, fov = 0.7878521207003342
+
+[trc] 00:00:05.0288:  0x2384 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x00000225C6236C40
+    scene = 0x00000225D135D2E0
+    renderMode = GalleryThumbnail
+
+DEBUG: init texture size = [192, 144]
+
+    renderer = 0x00000225C6236C40
+
+[trc] 00:00:03.0627:  0x2384 -- OSpectre::Babylon::Renderer::Render C:\office\src\graphics\spectre\babylon_renderer.cpp(165) ...
+    this = 0x00000225C8D67130
+    viewport: xy = [0, 0], size = [192, 144]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 192
+    viewportHeight = 144
+    fov = 0.589049
+camera mode = 0, position = {X: 0 Y: 0 Z: 1.5862231254577637}, target = {X: 0 Y: 0 Z: 0}, upVector = {X: 0 Y: 1 Z: 0}, fov = 0.5890486225480862
+
+[trc] 00:00:05.0340:  0x2384 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x00000225C6236C40
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:05.0369:  0x2384 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x00000225C6236C40
+    scene = 0x00000225D135D2E0
+    renderMode = GalleryThumbnail
+
+DEBUG: init texture size = [192, 144]
+
+    renderer = 0x00000225C6236C40
+
+[trc] 00:00:03.0708:  0x2384 -- OSpectre::Babylon::Renderer::Render C:\office\src\graphics\spectre\babylon_renderer.cpp(165) ...
+    this = 0x00000225C8D67130
+    viewport: xy = [0, 0], size = [192, 144]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 192
+    viewportHeight = 144
+    fov = 0.589049
+camera mode = 0, position = {X: 0 Y: 0 Z: 1.5862231254577637}, target = {X: 0 Y: 0 Z: 0}, upVector = {X: 0 Y: 1 Z: 0}, fov = 0.5890486225480862
+
+[trc] 00:00:05.0464:  0x2384 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x00000225C6236C40
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:05.0476:  0x2384 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x00000225C62375A0
+    scene = 0x00000225D135D2E0
+    renderMode = GalleryThumbnail
+
+DEBUG: init texture size = [192, 144]
+
+    renderer = 0x00000225C62375A0
+
+[trc] 00:00:03.0810:  0x2384 -- OSpectre::Babylon::Renderer::Render C:\office\src\graphics\spectre\babylon_renderer.cpp(165) ...
+    this = 0x00000225C8D66710
+    viewport: xy = [0, 0], size = [192, 144]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973141
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 192
+    viewportHeight = 144
+    fov = 0.589049
+camera mode = 0, position = {X: 0 Y: 0 Z: 1.5862231254577637}, target = {X: 0 Y: 0 Z: 0}, upVector = {X: 0 Y: 1 Z: 0}, fov = 0.5890486225480862
+
+[trc] 00:00:05.0530:  0x2384 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x00000225C62375A0
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:05.0544:  0x2384 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x00000225C62375A0
+    scene = 0x00000225D135D2E0
+    renderMode = GalleryThumbnail
+
+DEBUG: init texture size = [192, 144]
+
+    renderer = 0x00000225C62375A0
+
+[trc] 00:00:03.0879:  0x2384 -- OSpectre::Babylon::Renderer::Render C:\office\src\graphics\spectre\babylon_renderer.cpp(165) ...
+    this = 0x00000225C8D66710
+    viewport: xy = [0, 0], size = [192, 144]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973139
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 192
+    viewportHeight = 144
+    fov = 0.589049
+camera mode = 0, position = {X: 0 Y: 0 Z: 1.5862231254577637}, target = {X: 0 Y: 0 Z: 0}, upVector = {X: 0 Y: 1 Z: 0}, fov = 0.5890486225480862
+
+[trc] 00:00:05.0605:  0x2384 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x00000225C62375A0
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:05.0617:  0x2384 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x00000225C62375A0
+    scene = 0x00000225D135D2E0
+    renderMode = GalleryThumbnail
+
+DEBUG: init texture size = [192, 144]
+
+    renderer = 0x00000225C62375A0
+
+[trc] 00:00:03.0952:  0x2384 -- OSpectre::Babylon::Renderer::Render C:\office\src\graphics\spectre\babylon_renderer.cpp(165) ...
+    this = 0x00000225C8D66710
+    viewport: xy = [0, 0], size = [192, 144]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 192
+    viewportHeight = 144
+    fov = 0.589049
+camera mode = 0, position = {X: 0 Y: 0 Z: 1.5862231254577637}, target = {X: 0 Y: 0 Z: 0}, upVector = {X: 0 Y: 1 Z: 0}, fov = 0.5890486225480862
+
+[trc] 00:00:05.0689:  0x2384 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x00000225C62375A0
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:05.0701:  0x2384 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x00000225C6236E20
+    scene = 0x00000225D135D2E0
+    renderMode = GalleryThumbnail
+
+DEBUG: init texture size = [192, 144]
+
+    renderer = 0x00000225C6236E20
+
+[trc] 00:00:04.0056:  0x2384 -- OSpectre::Babylon::Renderer::Render C:\office\src\graphics\spectre\babylon_renderer.cpp(165) ...
+    this = 0x00000225C8D69650
+    viewport: xy = [0, 0], size = [192, 144]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973135
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 192
+    viewportHeight = 144
+    fov = 0.589049
+camera mode = 0, position = {X: 0 Y: 0 Z: 1.5862231254577637}, target = {X: 0 Y: 0 Z: 0}, upVector = {X: 0 Y: 1 Z: 0}, fov = 0.5890486225480862
+
+[trc] 00:00:05.0778:  0x2384 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x00000225C6236E20
+    renderMode = GalleryThumbnail
+ReactNative ['AugLoop'] (warning): 'Require cycle: ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\EventFlagFiller.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js
+
+Require cycles are allowed, but can result in uninitialized values. Consider refactoring to remove the need for a cycle.'
+ReactNative ['AugLoop'] (warning): 'Require cycle: ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\SimpleTelemetryLogger.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js
+
+Require cycles are allowed, but can result in uninitialized values. Consider refactoring to remove the need for a cycle.'
+ReactNative ['AugLoop'] (warning): '`new NativeEventEmitter()` was called with a non-null argument without the required `addListener` method.'
+ReactNative ['AugLoop'] (warning): '`new NativeEventEmitter()` was called with a non-null argument without the required `removeListeners` method.'
+
+
+======================================================================
+pressing orbit button ...
+======================================================================
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:06:18.0293:  0x2384 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x00000225CCEDDE30
+    scene = 0x00000225D135D2E0
+    renderMode = EditRotate
+
+DEBUG: init texture size = [480, 480]
+
+    renderer = 0x00000225CCEDDE30
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:06:16.0624:  0x2384 -- OSpectre::Babylon::Renderer::Render C:\office\src\graphics\spectre\babylon_renderer.cpp(165) ...
+    this = 0x00000225C8D6BD20
+    viewport: xy = [0, 0], size = [480.833, 480.833]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = false
+    viewportWidth = 480.833
+    viewportHeight = 480.833
+    fov = 0.785398
+camera mode = 0, position = {X: 0 Y: 0 Z: 1.5862231254577637}, target = {X: 0 Y: 0 Z: 0}, upVector = {X: 0 Y: 1 Z: 0}, fov = 0.7853981633974483
+
+[trc] 00:06:18.0350:  0x2384 -- Gfx::Model3DRenderer::SetRenderMode C:\office\src\gfx\model3d\model3drenderer.cpp(481) ...
+    renderMode = EditRotate
+
+[trc] 00:06:18.0915:  0x2384 -- Gfx::Model3DRenderer::SetRenderMode C:\office\src\gfx\model3d\model3drenderer.cpp(481) ...
+    renderMode = Unknown
+
+[trc] 00:06:18.0943:  0x2384 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x00000225DD0CD990
+    scene = 0x00000225D135D2E0
+    renderMode = RasterizeE2o
+
+DEBUG: init texture size = [447, 474]
+
+    renderer = 0x00000225DD0CD990
+
+[trc] 00:06:17.0272:  0x2384 -- OSpectre::Babylon::Renderer::Render C:\office\src\graphics\spectre\babylon_renderer.cpp(165) ...
+    this = 0x00000225C8D6BED0
+    viewport: xy = [-203.167, -189.667], size = [853.333, 853.333]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 853.333
+    viewportHeight = 853.333
+    fov = 0.785398
+camera mode = 0, position = {X: 0 Y: 0 Z: 1.5862231254577637}, target = {X: 0 Y: 0 Z: 0}, upVector = {X: 0 Y: 1 Z: 0}, fov = 0.7853981633974483
+
+[trc] 00:06:18.0994:  0x2384 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x00000225DD0CD990
+    renderMode = RasterizeE2o
+
+    renderer = 0x00000225CD77F9D0
+
+[trc] 00:06:17.0407:  0x2384 -- OSpectre::Babylon::Renderer::Render C:\office\src\graphics\spectre\babylon_renderer.cpp(165) ...
+    this = 0x00000225C8D657E0
+    viewport: xy = [0.833333, 0.833333], size = [480, 480]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = false
+    viewportWidth = 481.667
+    viewportHeight = 481.667
+    fov = 0.787852
+camera mode = 0, position = {X: 0 Y: 0 Z: 1.5862231254577637}, target = {X: 0 Y: 0 Z: 0}, upVector = {X: 0 Y: 1 Z: 0}, fov = 0.7878521207003342

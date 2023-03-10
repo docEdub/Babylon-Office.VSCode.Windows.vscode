@@ -1,0 +1,182 @@
+
+[trc] 00:00:00.0004:  0xb74 -- Gfx::IModel3DScene::GetSourceFormatFromString gfx\model3d\model3dscene.cpp(1130) ...
+
+[trc] 00:00:00.0006:  0xb74 -- Gfx::IModel3DScene::GetExportFormatFromString gfx\model3d\model3dscene.cpp(1139) ...
+
+[trc] 00:00:00.0009:  0xb74 -- Gfx::IModel3DScene::Convert gfx\model3d\model3dscene.cpp(1271) ...
+
+[trc] 00:00:00.0247:  0xb74 -- Gfx::IModel3DScene::GetUniqueIDFromStream gfx\model3d\model3dscene.cpp(947) ...
+
+[trc] 00:00:00.0250:  0xb74 -- Gfx::IModel3DScene::GetSourceFormatFromString gfx\model3d\model3dscene.cpp(1130) ...
+
+[trc] 00:00:00.0252:  0xb74 -- Gfx::IModel3DScene::Create gfx\model3d\model3dscene.cpp(1148) ...
+
+[trc] 00:00:00.0254:  0xb74 -- Gfx::Model3DScene::Model3DScene gfx\model3d\model3dscene.cpp(226) ...
+    this = 0x000001C5DDEAFCF0
+
+[trc] 00:00:00.0258:  0xb74 -- Gfx::Model3DScene::FLoadingFinished gfx\model3d\model3dscene.cpp(281) ...
+
+[trc] 00:00:00.0260:  0xb74 -- Gfx::Model3DScene::FHasEmptyBounds gfx\model3d\model3dscene.cpp(710) ...
+
+[trc] 00:00:00.0263:  0xb74 -- Gfx::Model3DScene::GetBoundingBoxExtents gfx\model3d\model3dscene.cpp(761) ...
+DEBUG: Encode Base64
+DEBUG: ImportMesh
+NetUI BinaryReader - Error : ElementListener not found: GalleryRefreshButtonInputHandler
+DEBUG: animationGroups.length = 3
+DEBUG: onSuccess
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:03.0242:  0xa68 -- Gfx::Model3DRenderer::Model3DRenderer gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000001C5C51D2200
+    scene = 0x000001C5DDEAFCF0
+    renderMode = RasterizeE2o
+
+[trc] 00:00:03.0378:  0xa68 -- Gfx::Model3DScene::GetBoundingBoxExtents gfx\model3d\model3dscene.cpp(761) ...
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:08.0601:  0xa68 -- Gfx::Model3DRenderer::Model3DRenderer gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000001C5C5D80390
+    scene = 0x000001C5DDEAFCF0
+    renderMode = RasterizeE2o
+
+[trc] 00:00:08.0640:  0xa68 -- Gfx::Model3DScene::GetBoundingBoxExtents gfx\model3d\model3dscene.cpp(761) ...
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:10.0853:  0xa68 -- Gfx::Model3DRenderer::Model3DRenderer gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000001C5C5E89A70
+    scene = 0x000001C5CA4BD7F0
+    renderMode = Play3DAnimation
+
+[trc] 00:00:10.0905:  0xa68 -- Gfx::Model3DScene::GetBoundingBoxExtents gfx\model3d\model3dscene.cpp(761) ...
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+
+[trc] 00:00:11.0178:  0xa68 -- Gfx::Model3DRenderer::Model3DRenderer gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000001C5DE064AF0
+    scene = 0x000001C5CA4BD7F0
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:11.0206:  0xa68 -- Gfx::Model3DScene::GetBoundingBoxExtents gfx\model3d\model3dscene.cpp(761) ...
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+
+[trc] 00:00:11.0243:  0xa68 -- Gfx::Model3DRenderer::~Model3DRenderer gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x000001C5DE064AF0
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:11.0362:  0xa68 -- Gfx::Model3DScene::GetBoundingBoxExtents gfx\model3d\model3dscene.cpp(761) ...
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+
+[trc] 00:00:11.0447:  0xa68 -- Gfx::Model3DRenderer::Model3DRenderer gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000001C5DE104D30
+    scene = 0x000001C5CA4BD7F0
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:11.0469:  0xa68 -- Gfx::Model3DScene::GetBoundingBoxExtents gfx\model3d\model3dscene.cpp(761) ...
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973141
+       far clip    = 2.19931
+
+[trc] 00:00:11.0565:  0xa68 -- Gfx::Model3DRenderer::Model3DRenderer gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000001C5DE104D30
+    scene = 0x000001C5CA4BD7F0
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:11.0587:  0xa68 -- Gfx::Model3DScene::GetBoundingBoxExtents gfx\model3d\model3dscene.cpp(761) ...
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973139
+       far clip    = 2.19931
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:20.0241:  0xa68 -- Gfx::Model3DRenderer::Model3DRenderer gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000001C5C7806840
+    scene = 0x000001C5CA4BD7F0
+    renderMode = EditRotate
+
+[trc] 00:00:20.0259:  0xa68 -- Gfx::Model3DScene::GetBoundingBoxExtents gfx\model3d\model3dscene.cpp(761) ...
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+
+[trc] 00:00:21.0101:  0xa68 -- Gfx::Model3DRenderer::Model3DRenderer gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000001C5CC55EAB0
+    scene = 0x000001C5CA4BD7F0
+    renderMode = RasterizeE2o
+
+[trc] 00:00:21.0133:  0xa68 -- Gfx::Model3DScene::GetBoundingBoxExtents gfx\model3d\model3dscene.cpp(761) ...
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+
+[trc] 00:00:21.0181:  0xa68 -- Gfx::Model3DRenderer::~Model3DRenderer gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x000001C5CC55EAB0
+    renderMode = RasterizeE2o
+
+[trc] 00:00:21.0261:  0xa68 -- Gfx::Model3DScene::GetBoundingBoxExtents gfx\model3d\model3dscene.cpp(761) ...
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931

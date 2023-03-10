@@ -1,2 +1,2 @@
 @cls
-obuild debug dirs gfx graphics
+obuild x64 debug dirs gfx graphics

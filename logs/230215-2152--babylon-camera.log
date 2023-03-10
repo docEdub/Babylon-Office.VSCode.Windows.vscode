@@ -1,0 +1,2337 @@
+NetUI BinaryReader - Error : ElementListener not found: GalleryRefreshButtonInputHandler
+ReactNative ['sdx_collabml.app'] (warning): 'Require cycle: ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\EventFlagFiller.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js
+
+Require cycles are allowed, but can result in uninitialized values. Consider refactoring to remove the need for a cycle.'
+ReactNative ['sdx_collabml.app'] (warning): 'Require cycle: ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\SimpleTelemetryLogger.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js
+
+Require cycles are allowed, but can result in uninitialized values. Consider refactoring to remove the need for a cycle.'
+ReactNative ['sdx_collabml.app'] (warning): '`new NativeEventEmitter()` was called with a non-null argument without the required `addListener` method.'
+ReactNative ['sdx_collabml.app'] (warning): '`new NativeEventEmitter()` was called with a non-null argument without the required `removeListeners` method.'
+onecoreuap\base\appmodel\search\structuredquery\schemaengine\schemaengine.cpp(3058)\StructuredQuery.dll!00007FFFED8B326E: (caller: 00007FFFED894FF2) ReturnHr(1) tid(113a4) 8000FFFF Catastrophic failure
+    CallContext:[\SchemaBinaryLoadBinary] 
+onecoreuap\base\appmodel\search\structuredquery\schemaengine\schemaengine.cpp(3058)\StructuredQuery.dll!00007FFFED8B326E: (caller: 00007FFFED894FF2) ReturnHr(2) tid(10e84) 8000FFFF Catastrophic failure
+    CallContext:[\SchemaBinaryLoadBinary] 
+onecoreuap\shell\propsys\memorymappedcache\version.cpp(210)\PROPSYS.dll!00007FFFF6DE9637: (caller: 00007FFFF6DAD9E7) ReturnHr(1) tid(113a4) 80070490 Element not found.
+onecoreuap\shell\propsys\memorymappedcache\version.cpp(210)\PROPSYS.dll!00007FFFF6DE9637: (caller: 00007FFFF6DAD9E7) ReturnHr(2) tid(10e84) 80070490 Element not found.
+onecoreuap\shell\propsys\memorymappedcache\version.cpp(210)\PROPSYS.dll!00007FFFF6DE9637: (caller: 00007FFFF6DAD9E7) ReturnHr(3) tid(113a4) 80070490 Element not found.
+Pane component activating [Workpane]
+NetUI BinaryReader - Error : ElementListener not found: GalleryRefreshButtonInputHandler
+Pane component deactivating [voluntarily]
+Pane component activating [Workpane]
+Pane component deactivating [voluntarily]
+MsoMakeFindFile: Thread 96196 never called DLL_THREAD_ATTACH on MSO97, assigning 0000000000000000 as context
+MsoMakeFindFile: Thread 96196 never called DLL_THREAD_ATTACH on MSO97, assigning 0000000000000000 as context
+*** ASSERT FAILED: Input parameter LanguagesBuffer for function RtlSetThreadPreferredUILanguages is not a valid multi-string!
+mincore\com\oleaut32\dispatch\ups.cpp(2126)\OLEAUT32.dll!00007FFFFE48469C: (caller: 00007FFFFE48498A) ReturnHr(1) tid(177c4) 8002801D Library not registered.
+onecore\vm\dv\storage\plan9\rdr\dll\util.cpp(99)\p9np.dll!00007FFFBFBCF0CC: (caller: 00007FFFBFBC93B0) LogHr(1) tid(f320) C0000034     Msg:[瑎牃慥整楆敬☨敤楶散‬奓䍎剈乏婉ⱅ☠瑡牴扩瑵獥‬椦卯慴畴ⱳ渠汵灬牴‬䥆䕌䅟呔䥒啂䕔也剏䅍ⱌ⠠䥆䕌卟䅈䕒剟䅅⁄⁼䥆䕌卟䅈䕒坟䥒䕔簠䘠䱉彅䡓剁彅䕄䕌䕔Ⱙ䘠䱉彅偏久‬䥆䕌卟乙䡃佒低单䥟彏低䅎䕌呒‬畮汬瑰Ⱳ〠)] 
+onecore\com\combase\dcomrem\security.cxx(2999)\combase.dll!00007FFFFEBA505E: (caller: 00007FFF4D82F80A) ReturnHr(1) tid(118b8) 80010117 Call context cannot be accessed after call completed.
+onecore\com\combase\dcomrem\security.cxx(2999)\combase.dll!00007FFFFEBA505E: (caller: 00007FFF4D82F80A) ReturnHr(2) tid(118b8) 80010117 Call context cannot be accessed after call completed.
+onecore\com\combase\objact\objact.cxx(4070)\combase.dll!00007FFFFEB55175: (caller: 00007FFFFEB5CEBA) ReturnHr(3) tid(f5c8) 80040154 Class not registered
+onecore\com\combase\objact\objact.cxx(4070)\combase.dll!00007FFFFEB55175: (caller: 00007FFFFEB5CEBA) ReturnHr(4) tid(f5c8) 80040154 Class not registered
+onecore\com\combase\objact\objact.cxx(4070)\combase.dll!00007FFFFEB55175: (caller: 00007FFFFEB5CEBA) ReturnHr(5) tid(f5c8) 80040154 Class not registered
+BJS - [21:52:02]: Babylon Native (v5.42.2) launched
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:00.0003:  0x5268 -- Gfx::Model3DScene::Model3DScene C:\office\src\gfx\model3d\model3dscene.cpp(226) ...
+    this = 0x000001411FBEB280
+DEBUG: Encode Base64
+NetUI BinaryReader - Error : ElementListener not found: GalleryRefreshButtonInputHandler
+DEBUG: ImportMesh
+DEBUG: animationGroups.length = 3
+DEBUG: onSuccess
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:03.0079:  0x177c4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x00000141095FFF70
+    scene = 0x000001411FBEB280
+    renderMode = RasterizeE2o
+
+[trc] 00:00:03.0087:  0x177c4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x00000141095FFF70
+    renderMode = RasterizeE2o
+
+[trc] 00:00:03.0743:  0x177c4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000014132D8F4D0
+    scene = 0x000001411FBEB280
+    renderMode = RasterizeE2o
+
+[trc] 00:00:03.0759:  0x177c4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x0000014132D8F4D0
+    renderMode = RasterizeE2o
+
+[trc] 00:00:03.0766:  0x177c4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000014132D8F4D0
+    scene = 0x000001411FBEB280
+    renderMode = RasterizeE2o
+
+[trc] 00:00:03.0777:  0x177c4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x0000014132D8F4D0
+    renderMode = RasterizeE2o
+
+[trc] 00:00:03.0785:  0x177c4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000014132D8F4D0
+    scene = 0x000001411FBEB280
+    renderMode = RasterizeE2o
+
+[trc] 00:00:03.0796:  0x177c4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x0000014132D8F4D0
+    renderMode = RasterizeE2o
+
+[trc] 00:00:03.0839:  0x177c4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000014132D912D0
+    scene = 0x000001411FBEB280
+    renderMode = Play3DAnimation
+
+[trc] 00:00:03.0847:  0x177c4 -- Gfx::Model3DRenderer::Render C:\office\src\gfx\model3d\model3drenderer_win.cpp(173) ...
+Unable to start IDXGraphicsAnalysis
+DEBUG: init texture size = [480, 480]
+
+
+    renderer = 0x0000014132D912D0
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:00.0003:  0x177c4 -- OSpectre::Babylon::Renderer::Render C:\office\src\graphics\spectre\babylon_renderer.cpp(168) ...
+    this = 0x000001411F2429E0
+    viewport: xy = [0.833333, 0.833333], size = [480, 480]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = false
+    viewportWidth = 481.667
+    viewportHeight = 481.667
+    textureWidth = 480
+    textureHeight = 480
+    left = 0.833333
+    right = 480.833
+    top = 0.833333
+    bottom = 480.833
+    centerX = 240.833
+    centerY = 240.833
+    vpX = -3.16791e-08
+    vpY = -3.16791e-08
+    vpWidth = 0.99654
+    vpHeight = 0.99654
+    fov degs = 45.1406
+    fov = 0.787852
+0.00622399989515543,0,0,0,0,0.00622399989515543,0,0,0,0,0.00622399989515543,0,0.016580305993556976,-0.24961130321025848,0.04303361102938652,1
+scale = {X: 0.00622399989515543 Y: 0.00622399989515543 Z: 0.00622399989515543}, rotation = {X: 0 Y: 0 Z: 0 W: 1}, translation = {X: 0.016580305993556976 Y: -0.24961130321025848 Z: 0.04303361102938652}
+scene.isReady
+_isDirty = false
+_nodeDataStorage = {
+    "_doNotSerialize": false,
+    "_isDisposed": false,
+    "_sceneRootNodesIndex": 2,
+    "_isEnabled": true,
+    "_isParentEnabled": true,
+    "_isReady": true,
+    "_onEnabledStateChangedObservable": {
+        "_observers": [],
+        "_numObserversMarkedAsDeleted": 0,
+        "_eventState": {
+            "mask": 0,
+            "skipNextObservers": false
+        }
+    },
+    "_onClonedObservable": {
+        "_observers": [],
+        "_numObserversMarkedAsDeleted": 0,
+        "_eventState": {
+            "mask": 0,
+            "skipNextObservers": false
+        }
+    }
+}
+state = ""
+metadata = null
+reservedDataStore = null
+_accessibilityTag = null
+onAccessibilityTagChangedObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+_parentContainer = null
+animations = []
+_ranges = {}
+onReady = null
+_currentRenderId = 2
+_parentUpdateId = -1
+_childUpdateId = 1
+_waitingParentId = null
+_waitingParentInstanceIndex = null
+_waitingParsedUniqueId = null
+_cache = {
+    "parent": null,
+    "position": {
+        "_isDirty": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5862231254577637
+    },
+    "upVector": {
+        "_isDirty": true,
+        "_x": 0,
+        "_y": 1,
+        "_z": 0
+    },
+    "mode": 0,
+    "minZ": 0.9731375575065613,
+    "maxZ": 2.199307680130005,
+    "fov": 0.7878521207003342,
+    "fovMode": 0,
+    "aspectRatio": 1,
+    "lockedTarget": null,
+    "rotation": {
+        "_isDirty": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0
+    },
+    "rotationQuaternion": {
+        "_isDirty": true,
+        "_x": 1.7976931348623157e+308,
+        "_y": 1.7976931348623157e+308,
+        "_z": 1.7976931348623157e+308,
+        "_w": 1.7976931348623157e+308
+    },
+    "_target": {
+        "_isDirty": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0
+    },
+    "alpha": 1.5707963267948966,
+    "beta": 1.5707963267948966,
+    "radius": 2.633263147308201,
+    "targetScreenOffset": {
+        "x": 0,
+        "y": 0
+    },
+    "projectionPlaneTilt": 0
+}
+_parentNode = null
+_children = null
+_worldMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": true,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8007,
+    "_m": {
+        "0": -1,
+        "1": 3.908137339094055e-40,
+        "2": 6.123234262925839e-17,
+        "3": 0,
+        "4": -3.74939976039497e-33,
+        "5": 1,
+        "6": -6.123234262925839e-17,
+        "7": 0,
+        "8": -6.123234262925839e-17,
+        "9": -6.123234262925839e-17,
+        "10": -1,
+        "11": 0,
+        "12": 1.612408742019734e-16,
+        "13": 1.612408742019734e-16,
+        "14": 2.633263111114502,
+        "15": 1
+    }
+}
+_worldMatrixDeterminant = 0
+_worldMatrixDeterminantIsDirty = true
+_animationPropertiesOverride = null
+_isNode = true
+onDisposeObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+_onDisposeObserver = null
+_behaviors = []
+name = "default camera"
+id = "default camera"
+uniqueId = 64
+_position = {
+    "_isDirty": true,
+    "_x": 1.612408642331837e-16,
+    "_y": 1.612408642331837e-16,
+    "_z": 2.633263147308201
+}
+_upVector = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 1,
+    "_z": 0
+}
+_orthoLeft = null
+_orthoRight = null
+_orthoBottom = null
+_orthoTop = null
+fov = 0.7878521207003342
+projectionPlaneTilt = 0
+minZ = 0.9731375575065613
+maxZ = 2.199307680130005
+inertia = 0.9
+_mode = 0
+isIntermediate = false
+viewport = {
+    "x": 0,
+    "y": 0,
+    "width": 1,
+    "height": 1
+}
+layerMask = 268435455
+fovMode = 0
+cameraRigMode = 0
+customRenderTargets = []
+onViewMatrixChangedObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+onProjectionMatrixChangedObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+onAfterCheckInputsObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+onRestoreStateObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+isRigCamera = false
+_rigCameras = []
+_webvrViewMatrix = {
+    "_isIdentity": true,
+    "_isIdentityDirty": false,
+    "_isIdentity3x2": true,
+    "_isIdentity3x2Dirty": false,
+    "updateFlag": 7973,
+    "_m": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 1,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 1
+    }
+}
+_skipRendering = false
+_projectionMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": false,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8008,
+    "_m": {
+        "0": 2.40585994720459,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2.40585994720459,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 2.587279796600342,
+        "11": 1,
+        "12": 0,
+        "13": 0,
+        "14": -3.4909167289733887,
+        "15": 0
+    }
+}
+_postProcesses = []
+_globalPosition = {
+    "_isDirty": true,
+    "_x": 1.612408642331837e-16,
+    "_y": 1.612408642331837e-16,
+    "_z": 2.633263147308201
+}
+_computedViewMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": true,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8006,
+    "_m": {
+        "0": -1,
+        "1": -3.7493993930529855e-33,
+        "2": -6.123234262925839e-17,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": -6.123234262925839e-17,
+        "7": 0,
+        "8": 6.123234262925839e-17,
+        "9": -6.123234262925839e-17,
+        "10": -1,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 2.633263111114502,
+        "15": 1
+    }
+}
+_doNotComputeProjectionMatrix = false
+_transformMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": false,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 7978,
+    "_m": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0
+    }
+}
+_refreshFrustumPlanes = true
+_absoluteRotation = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0,
+    "_w": 1
+}
+_isCamera = true
+_isLeftCamera = false
+_isRightCamera = false
+renderPassId = 1
+_tmpUpVector = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+_tmpTargetVector = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+cameraDirection = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+cameraRotation = {
+    "x": 0,
+    "y": 0
+}
+ignoreParentScaling = false
+updateUpVectorFromRotation = false
+_tmpQuaternion = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0,
+    "_w": 1
+}
+rotation = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+speed = 52.66526294616403
+noRotationConstraint = false
+invertRotation = false
+inverseRotationSpeed = 0.2
+lockedTarget = null
+_currentTarget = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+_initialFocalDistance = 1
+_viewMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": true,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8006,
+    "_m": {
+        "0": -1,
+        "1": -3.7493993930529855e-33,
+        "2": -6.123234262925839e-17,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": -6.123234262925839e-17,
+        "7": 0,
+        "8": 6.123234262925839e-17,
+        "9": -6.123234262925839e-17,
+        "10": -1,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 2.633263111114502,
+        "15": 1
+    }
+}
+_camMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": false,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 7982,
+    "_m": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0
+    }
+}
+_cameraTransformMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": false,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 7984,
+    "_m": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0
+    }
+}
+_cameraRotationMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": false,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 7986,
+    "_m": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0
+    }
+}
+_referencePoint = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 1
+}
+_transformedReferencePoint = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+_defaultUp = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 1,
+    "_z": 0
+}
+_cachedRotationZ = 0
+_cachedQuaternionRotationZ = 0
+inertialAlphaOffset = 0
+inertialBetaOffset = 0
+inertialRadiusOffset = 0
+lowerAlphaLimit = null
+upperAlphaLimit = null
+lowerBetaLimit = 0.01
+upperBetaLimit = 3.1315926535897933
+lowerRadiusLimit = 2.633263147308201
+upperRadiusLimit = null
+inertialPanningX = 0
+inertialPanningY = 0
+pinchToPanMaxDistance = 20
+panningDistanceLimit = null
+panningOriginTarget = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+panningInertia = 0.9
+zoomOnFactor = 1
+targetScreenOffset = {
+    "x": 0,
+    "y": 0
+}
+allowUpsideDown = true
+useInputToRestoreState = true
+panningAxis = {
+    "_isDirty": true,
+    "_x": 1,
+    "_y": 1,
+    "_z": 0
+}
+_transformedDirection = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+mapPanning = false
+onMeshTargetChangedObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+checkCollisions = false
+collisionRadius = {
+    "_isDirty": true,
+    "_x": 0.5,
+    "_y": 0.5,
+    "_z": 0.5
+}
+_previousPosition = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+_collisionVelocity = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+_newPosition = {
+    "_isDirty": true,
+    "_x": 1.612408642331837e-16,
+    "_y": 1.612408642331837e-16,
+    "_z": 2.633263147308201
+}
+_computationVector = {
+    "_isDirty": true,
+    "_x": 1.612408642331837e-16,
+    "_y": 1.612408642331837e-16,
+    "_z": 2.633263147308201
+}
+_onCollisionPositionChange = undefined
+_target = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+_targetHost = null
+_targetBoundingCenter = null
+radius = 2.633263147308201
+alpha = 1.5707963267948966
+beta = 1.5707963267948966
+_yToUpMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": true,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 7994,
+    "_m": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 1,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 1
+    }
+}
+_upToYMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": true,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 7995,
+    "_m": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 1,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 1
+    }
+}
+camera mode = 0, position = {X: 1.612408642331837e-16 Y: 1.612408642331837e-16 Z: 2.633263147308201}, target = {X: 0 Y: 0 Z: 0}, upVector = {X: 0 Y: 1 Z: 0}, fov = 0.7878521207003342, viewport = [0, 0, 1, 1]
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:08.0637:  0x177c4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x00000141361A0420
+    scene = 0x000001411FBEB280
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:08.0644:  0x177c4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x00000141361A0420
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:08.0652:  0x177c4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000014136608700
+    scene = 0x000001411FBEB280
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:08.0660:  0x177c4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x0000014136608700
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:08.0666:  0x1444c -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+
+[trc] 00:00:08.0668:  0x177c4 --     this = 0x0000014125FEFD30
+    scene = 0x000001411FBEB280
+Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000014136608BB0
+    renderMode = RasterizeE2o    scene = 0x000001411FBEB280
+    renderMode = 
+GalleryThumbnail
+
+[trc] 00:00:08.0675:  0x177c4 -- 
+[trc] 00:00:08.0676:  0x1444c -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x0000014136608BB0
+Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x0000014125FEFD30
+    renderMode = GalleryThumbnail    renderMode = RasterizeE2o
+
+
+[trc] 00:00:08.0680:  0x1444c -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000014125FEE2F0
+    scene = 0x000001411FBEB280
+    renderMode = RasterizeE2o
+
+[trc] 00:00:08.0691:  0x1444c -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x0000014125FEE2F0
+    renderMode = RasterizeE2o
+[trc] 00:00:08.0697:  0x177c4 -- 
+Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x00000141366087F0
+    scene = 0x000001411FBEB280
+
+[trc] 00:00:08.0700:  0x1444c --     renderMode = GalleryThumbnailGfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000014125FEEF20
+
+    scene = 0x000001411FBEB280
+
+[trc] 00:00:08.0704:  0x177c4 --     renderMode = RasterizeE2oGfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x00000141366087F0
+
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:08.0710:  0x1444c -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+
+[trc] 00:00:08.0711:  0x177c4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000014125FEEF20
+    this = 0x00000141361A0420
+    scene = 0x000001411FBEB280
+    renderMode = RasterizeE2o    renderMode = GalleryThumbnail
+
+
+[trc] 00:00:08.0717:  0x177c4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x00000141361A0420
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:08.0724:  0x177c4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x00000141366087F0
+    scene = 0x000001411FBEB280
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:08.0733:  0x177c4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x00000141366087F0
+    renderMode = GalleryThumbnail
+ReactNative ['AugLoop'] (warning): 'Require cycle: ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\EventFlagFiller.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js
+
+Require cycles are allowed, but can result in uninitialized values. Consider refactoring to remove the need for a cycle.'
+ReactNative ['AugLoop'] (warning): 'Require cycle: ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\SimpleTelemetryLogger.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js
+
+Require cycles are allowed, but can result in uninitialized values. Consider refactoring to remove the need for a cycle.'
+ReactNative ['AugLoop'] (warning): '`new NativeEventEmitter()` was called with a non-null argument without the required `addListener` method.'
+ReactNative ['AugLoop'] (warning): '`new NativeEventEmitter()` was called with a non-null argument without the required `removeListeners` method.'
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:14.0545:  0x177c4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000001412CB2D3C0
+    scene = 0x000001411FBEB280
+    renderMode = RasterizeE2o
+
+[trc] 00:00:14.0555:  0x177c4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x000001412CB2D3C0
+    renderMode = RasterizeE2o
+
+[trc] 00:00:14.0562:  0x177c4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000001412CB2D3C0
+    scene = 0x000001411FBEB280
+    renderMode = RasterizeE2o
+
+[trc] 00:00:14.0572:  0x177c4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x000001412CB2D3C0
+    renderMode = RasterizeE2o
+
+[trc] 00:00:14.0594:  0x177c4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x0000014132D912D0
+    renderMode = Play3DAnimation
+
+[trc] 00:00:14.0646:  0x177c4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000001412CB2D870
+    scene = 0x000001411FBEB280
+    renderMode = Play3DAnimation
+
+[trc] 00:00:14.0654:  0x177c4 -- Gfx::Model3DRenderer::Render C:\office\src\gfx\model3d\model3drenderer_win.cpp(173) ...
+
+DEBUG: init texture size = [1137, 1137]
+
+
+    renderer = 0x000001412CB2D870
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:10.0744:  0x177c4 -- OSpectre::Babylon::Renderer::Render C:\office\src\graphics\spectre\babylon_renderer.cpp(168) ...
+    this = 0x000001411DBA0E30
+    viewport: xy = [0, 0.833333], size = [1136.67, 1135.83]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = false
+    viewportWidth = 1138.33
+    viewportHeight = 1137.5
+    textureWidth = 1137
+    textureHeight = 1137
+    left = 0
+    right = 1136.67
+    top = 0.833333
+    bottom = 1136.67
+    centerX = 568.333
+    centerY = 568.75
+    vpX = 0.000732582
+    vpY = -5.36573e-08
+    vpWidth = 0.998828
+    vpHeight = 0.999561
+    fov degs = 45.0594
+    fov = 0.786435
+0.00622399989515543,0,0,0,0,0.00622399989515543,0,0,0,0,0.00622399989515543,0,0.016580305993556976,-0.24961130321025848,0.04303361102938652,1
+scale = {X: 0.00622399989515543 Y: 0.00622399989515543 Z: 0.00622399989515543}, rotation = {X: 0 Y: 0 Z: 0 W: 1}, translation = {X: 0.016580305993556976 Y: -0.24961130321025848 Z: 0.04303361102938652}
+scene.isReady
+_isDirty = false
+_nodeDataStorage = {
+    "_doNotSerialize": false,
+    "_isDisposed": false,
+    "_sceneRootNodesIndex": 2,
+    "_isEnabled": true,
+    "_isParentEnabled": true,
+    "_isReady": true,
+    "_onEnabledStateChangedObservable": {
+        "_observers": [],
+        "_numObserversMarkedAsDeleted": 0,
+        "_eventState": {
+            "mask": 0,
+            "skipNextObservers": false
+        }
+    },
+    "_onClonedObservable": {
+        "_observers": [],
+        "_numObserversMarkedAsDeleted": 0,
+        "_eventState": {
+            "mask": 0,
+            "skipNextObservers": false
+        }
+    }
+}
+state = ""
+metadata = null
+reservedDataStore = null
+_accessibilityTag = null
+onAccessibilityTagChangedObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+_parentContainer = null
+animations = []
+_ranges = {}
+onReady = null
+_currentRenderId = 4
+_parentUpdateId = -1
+_childUpdateId = 1
+_waitingParentId = null
+_waitingParentInstanceIndex = null
+_waitingParsedUniqueId = null
+_cache = {
+    "parent": null,
+    "position": {
+        "_isDirty": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5862231254577637
+    },
+    "upVector": {
+        "_isDirty": true,
+        "_x": 0,
+        "_y": 1,
+        "_z": 0
+    },
+    "mode": 0,
+    "minZ": 0.9731375575065613,
+    "maxZ": 2.199307680130005,
+    "fov": 0.786435360612304,
+    "fovMode": 0,
+    "aspectRatio": 1,
+    "lockedTarget": null,
+    "rotation": {
+        "_isDirty": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0
+    },
+    "rotationQuaternion": {
+        "_isDirty": true,
+        "_x": 1.7976931348623157e+308,
+        "_y": 1.7976931348623157e+308,
+        "_z": 1.7976931348623157e+308,
+        "_w": 1.7976931348623157e+308
+    },
+    "_target": {
+        "_isDirty": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0
+    },
+    "alpha": -4.71238898038469,
+    "beta": 1.5707963267948966,
+    "radius": 1.5862231254577637,
+    "targetScreenOffset": {
+        "x": 0,
+        "y": 0
+    },
+    "projectionPlaneTilt": 0
+}
+_parentNode = null
+_children = null
+_worldMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": true,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8104,
+    "_m": {
+        "0": -1,
+        "1": -3.620380699444954e-40,
+        "2": -1.8369701465288538e-16,
+        "3": 0,
+        "4": 1.1248198179158957e-32,
+        "5": 1,
+        "6": -6.123234262925839e-17,
+        "7": 0,
+        "8": 1.8369701465288538e-16,
+        "9": -6.123234262925839e-17,
+        "10": -1,
+        "11": 0,
+        "12": -2.9138444252294244e-16,
+        "13": 9.712815633090735e-17,
+        "14": 1.5862231254577637,
+        "15": 1
+    }
+}
+_worldMatrixDeterminant = 0
+_worldMatrixDeterminantIsDirty = true
+_animationPropertiesOverride = null
+_isNode = true
+onDisposeObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+_onDisposeObserver = null
+_behaviors = []
+name = "default camera"
+id = "default camera"
+uniqueId = 66
+_position = {
+    "_isDirty": true,
+    "_x": -2.913844609988041e-16,
+    "_y": 9.712815366626804e-17,
+    "_z": 1.5862231254577637
+}
+_upVector = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 1,
+    "_z": 0
+}
+_orthoLeft = null
+_orthoRight = null
+_orthoBottom = null
+_orthoTop = null
+fov = 0.786435360612304
+projectionPlaneTilt = 0
+minZ = 0.9731375575065613
+maxZ = 2.199307680130005
+inertia = 0.9
+_mode = 0
+isIntermediate = false
+viewport = {
+    "x": 0,
+    "y": 0,
+    "width": 1,
+    "height": 1
+}
+layerMask = 268435455
+fovMode = 0
+cameraRigMode = 0
+customRenderTargets = []
+onViewMatrixChangedObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+onProjectionMatrixChangedObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+onAfterCheckInputsObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+onRestoreStateObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+isRigCamera = false
+_rigCameras = []
+_webvrViewMatrix = {
+    "_isIdentity": true,
+    "_isIdentityDirty": false,
+    "_isIdentity3x2": true,
+    "_isIdentity3x2Dirty": false,
+    "updateFlag": 8075,
+    "_m": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 1,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 1
+    }
+}
+_skipRendering = false
+_projectionMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": false,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8105,
+    "_m": {
+        "0": 2.4106767177581787,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2.4106767177581787,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 2.587279796600342,
+        "11": 1,
+        "12": 0,
+        "13": 0,
+        "14": -3.4909167289733887,
+        "15": 0
+    }
+}
+_postProcesses = []
+_globalPosition = {
+    "_isDirty": true,
+    "_x": -2.913844609988041e-16,
+    "_y": 9.712815366626804e-17,
+    "_z": 1.5862231254577637
+}
+_computedViewMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": true,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8103,
+    "_m": {
+        "0": -1,
+        "1": 1.1248198179158957e-32,
+        "2": 1.8369701465288538e-16,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": -6.123234262925839e-17,
+        "7": 0,
+        "8": -1.8369701465288538e-16,
+        "9": -6.123234262925839e-17,
+        "10": -1,
+        "11": 0,
+        "12": 4.930380657631324e-32,
+        "13": 2.465190328815662e-32,
+        "14": 1.5862231254577637,
+        "15": 1
+    }
+}
+_doNotComputeProjectionMatrix = false
+_transformMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": false,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8080,
+    "_m": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0
+    }
+}
+_refreshFrustumPlanes = true
+_absoluteRotation = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0,
+    "_w": 1
+}
+_isCamera = true
+_isLeftCamera = false
+_isRightCamera = false
+renderPassId = 3
+_tmpUpVector = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+_tmpTargetVector = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+cameraDirection = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+cameraRotation = {
+    "x": 0,
+    "y": 0
+}
+ignoreParentScaling = false
+updateUpVectorFromRotation = false
+_tmpQuaternion = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0,
+    "_w": 1
+}
+rotation = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+speed = 0.32778859105525804
+noRotationConstraint = false
+invertRotation = false
+inverseRotationSpeed = 0.2
+lockedTarget = null
+_currentTarget = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+_initialFocalDistance = 1
+_viewMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": true,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8103,
+    "_m": {
+        "0": -1,
+        "1": 1.1248198179158957e-32,
+        "2": 1.8369701465288538e-16,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": -6.123234262925839e-17,
+        "7": 0,
+        "8": -1.8369701465288538e-16,
+        "9": -6.123234262925839e-17,
+        "10": -1,
+        "11": 0,
+        "12": 4.930380657631324e-32,
+        "13": 2.465190328815662e-32,
+        "14": 1.5862231254577637,
+        "15": 1
+    }
+}
+_camMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": false,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8084,
+    "_m": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0
+    }
+}
+_cameraTransformMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": false,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8086,
+    "_m": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0
+    }
+}
+_cameraRotationMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": false,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8088,
+    "_m": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0
+    }
+}
+_referencePoint = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 1
+}
+_transformedReferencePoint = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+_defaultUp = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 1,
+    "_z": 0
+}
+_cachedRotationZ = 0
+_cachedQuaternionRotationZ = 0
+inertialAlphaOffset = 0
+inertialBetaOffset = 0
+inertialRadiusOffset = 0
+lowerAlphaLimit = null
+upperAlphaLimit = null
+lowerBetaLimit = 0.01
+upperBetaLimit = 3.1315926535897933
+lowerRadiusLimit = 0.016389429552762902
+upperRadiusLimit = null
+inertialPanningX = 0
+inertialPanningY = 0
+pinchToPanMaxDistance = 20
+panningDistanceLimit = null
+panningOriginTarget = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+panningInertia = 0.9
+zoomOnFactor = 1
+targetScreenOffset = {
+    "x": 0,
+    "y": 0
+}
+allowUpsideDown = true
+useInputToRestoreState = true
+panningAxis = {
+    "_isDirty": true,
+    "_x": 1,
+    "_y": 1,
+    "_z": 0
+}
+_transformedDirection = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+mapPanning = false
+onMeshTargetChangedObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+checkCollisions = false
+collisionRadius = {
+    "_isDirty": true,
+    "_x": 0.5,
+    "_y": 0.5,
+    "_z": 0.5
+}
+_previousPosition = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+_collisionVelocity = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+_newPosition = {
+    "_isDirty": true,
+    "_x": -2.913844609988041e-16,
+    "_y": 9.712815366626804e-17,
+    "_z": 1.5862231254577637
+}
+_computationVector = {
+    "_isDirty": true,
+    "_x": -2.913844609988041e-16,
+    "_y": 9.712815366626804e-17,
+    "_z": 1.5862231254577637
+}
+_onCollisionPositionChange = undefined
+_target = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+_targetHost = null
+_targetBoundingCenter = null
+radius = 1.5862231254577637
+alpha = -4.71238898038469
+beta = 1.5707963267948966
+_yToUpMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": true,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8096,
+    "_m": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 1,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 1
+    }
+}
+_upToYMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": true,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8097,
+    "_m": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 1,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 1
+    }
+}
+camera mode = 0, position = {X: -2.913844609988041e-16 Y: 9.712815366626804e-17 Z: 1.5862231254577637}, target = {X: 0 Y: 0 Z: 0}, upVector = {X: 0 Y: 1 Z: 0}, fov = 0.786435360612304, viewport = [0, 0, 1, 1]
+
+[trc] 00:00:15.0047:  0x11950 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000014126A461D0
+    scene = 0x000001411FBEB280
+    renderMode = RasterizeE2o
+
+[trc] 00:00:15.0057:  0x11950 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x0000014126A461D0
+    renderMode = RasterizeE2o
+
+[trc] 00:00:15.0065:  0x11950 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000014126A461D0
+    scene = 0x000001411FBEB280
+    renderMode = RasterizeE2o
+
+[trc] 00:00:15.0074:  0x11950 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x0000014126A461D0
+    renderMode = RasterizeE2o
+
+[trc] 00:00:15.0081:  0x11950 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000014126A461D0
+    scene = 0x000001411FBEB280
+    renderMode = RasterizeE2o
+
+[trc] 00:00:15.0090:  0x11950 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x0000014126A461D0
+    renderMode = RasterizeE2o
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:17.0128:  0xd2d8 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000014125FD2FA0
+    scene = 0x000001411FBEB280
+    renderMode = RasterizeE2o
+
+[trc] 00:00:17.0137:  0xd2d8 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x0000014125FD2FA0
+    renderMode = RasterizeE2o
+
+[trc] 00:00:17.0145:  0xd2d8 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000014125FD2910
+    scene = 0x000001411FBEB280
+    renderMode = RasterizeE2o
+
+[trc] 00:00:17.0154:  0xd2d8 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x0000014125FD2910
+    renderMode = RasterizeE2o
+
+[trc] 00:00:17.0162:  0xd2d8 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000014125FD2370
+    scene = 0x000001411FBEB280
+    renderMode = RasterizeE2o
+
+[trc] 00:00:17.0171:  0xd2d8 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x0000014125FD2370
+    renderMode = RasterizeE2o
+
+[trc] 00:00:17.0273:  0x177c4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000014126710760
+    scene = 0x000001411FBEB280
+    renderMode = RasterizeE2o
+
+[trc] 00:00:17.0283:  0x177c4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x0000014126710760
+    renderMode = RasterizeE2o
+
+[trc] 00:00:17.0290:  0x177c4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000014126710760
+    scene = 0x000001411FBEB280
+    renderMode = RasterizeE2o
+
+[trc] 00:00:17.0299:  0x177c4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x0000014126710760
+    renderMode = RasterizeE2o
+
+[trc] 00:00:17.0307:  0x177c4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000014126710760
+    scene = 0x000001411FBEB280
+    renderMode = RasterizeE2o
+
+[trc] 00:00:17.0316:  0x177c4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x0000014126710760
+    renderMode = RasterizeE2o
+
+[trc] 00:00:17.0332:  0x177c4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x000001412CB2D870
+    renderMode = Play3DAnimation
+
+[trc] 00:00:17.0357:  0x177c4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000014126710760
+    scene = 0x000001411FBEB280
+    renderMode = Play3DAnimation
+
+[trc] 00:00:17.0365:  0x177c4 -- Gfx::Model3DRenderer::Render C:\office\src\gfx\model3d\model3drenderer_win.cpp(173) ...
+
+DEBUG: init texture size = [480, 480]
+
+
+    renderer = 0x0000014126710760
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:13.0454:  0x177c4 -- OSpectre::Babylon::Renderer::Render C:\office\src\graphics\spectre\babylon_renderer.cpp(168) ...
+    this = 0x000001411DBA1D60
+    viewport: xy = [0.833333, 0.833333], size = [480, 480]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = false
+    viewportWidth = 481.667
+    viewportHeight = 481.667
+    textureWidth = 480
+    textureHeight = 480
+    left = 0.833333
+    right = 480.833
+    top = 0.833333
+    bottom = 480.833
+    centerX = 240.833
+    centerY = 240.833
+    vpX = -3.16791e-08
+    vpY = -3.16791e-08
+    vpWidth = 0.99654
+    vpHeight = 0.99654
+    fov degs = 45.1406
+    fov = 0.787852
+0.00622399989515543,0,0,0,0,0.00622399989515543,0,0,0,0,0.00622399989515543,0,0.016580305993556976,-0.24961130321025848,0.04303361102938652,1
+scale = {X: 0.00622399989515543 Y: 0.00622399989515543 Z: 0.00622399989515543}, rotation = {X: 0 Y: 0 Z: 0 W: 1}, translation = {X: 0.016580305993556976 Y: -0.24961130321025848 Z: 0.04303361102938652}
+scene.isReady
+_isDirty = false
+_nodeDataStorage = {
+    "_doNotSerialize": false,
+    "_isDisposed": false,
+    "_sceneRootNodesIndex": 2,
+    "_isEnabled": true,
+    "_isParentEnabled": true,
+    "_isReady": true,
+    "_onEnabledStateChangedObservable": {
+        "_observers": [],
+        "_numObserversMarkedAsDeleted": 0,
+        "_eventState": {
+            "mask": 0,
+            "skipNextObservers": false
+        }
+    },
+    "_onClonedObservable": {
+        "_observers": [],
+        "_numObserversMarkedAsDeleted": 0,
+        "_eventState": {
+            "mask": 0,
+            "skipNextObservers": false
+        }
+    }
+}
+state = ""
+metadata = null
+reservedDataStore = null
+_accessibilityTag = null
+onAccessibilityTagChangedObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+_parentContainer = null
+animations = []
+_ranges = {}
+onReady = null
+_currentRenderId = 6
+_parentUpdateId = -1
+_childUpdateId = 1
+_waitingParentId = null
+_waitingParentInstanceIndex = null
+_waitingParsedUniqueId = null
+_cache = {
+    "parent": null,
+    "position": {
+        "_isDirty": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5862231254577637
+    },
+    "upVector": {
+        "_isDirty": true,
+        "_x": 0,
+        "_y": 1,
+        "_z": 0
+    },
+    "mode": 0,
+    "minZ": 0.9731375575065613,
+    "maxZ": 2.199307680130005,
+    "fov": 0.7878521207003342,
+    "fovMode": 0,
+    "aspectRatio": 1,
+    "lockedTarget": null,
+    "rotation": {
+        "_isDirty": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0
+    },
+    "rotationQuaternion": {
+        "_isDirty": true,
+        "_x": 1.7976931348623157e+308,
+        "_y": 1.7976931348623157e+308,
+        "_z": 1.7976931348623157e+308,
+        "_w": 1.7976931348623157e+308
+    },
+    "_target": {
+        "_isDirty": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0
+    },
+    "alpha": -4.71238898038469,
+    "beta": 1.5707963267948966,
+    "radius": 1.5862231254577637,
+    "targetScreenOffset": {
+        "x": 0,
+        "y": 0
+    },
+    "projectionPlaneTilt": 0
+}
+_parentNode = null
+_children = null
+_worldMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": true,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8201,
+    "_m": {
+        "0": -1,
+        "1": -3.620380699444954e-40,
+        "2": -1.8369701465288538e-16,
+        "3": 0,
+        "4": 1.1248198179158957e-32,
+        "5": 1,
+        "6": -6.123234262925839e-17,
+        "7": 0,
+        "8": 1.8369701465288538e-16,
+        "9": -6.123234262925839e-17,
+        "10": -1,
+        "11": 0,
+        "12": -2.9138444252294244e-16,
+        "13": 9.712815633090735e-17,
+        "14": 1.5862231254577637,
+        "15": 1
+    }
+}
+_worldMatrixDeterminant = 0
+_worldMatrixDeterminantIsDirty = true
+_animationPropertiesOverride = null
+_isNode = true
+onDisposeObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+_onDisposeObserver = null
+_behaviors = []
+name = "default camera"
+id = "default camera"
+uniqueId = 68
+_position = {
+    "_isDirty": true,
+    "_x": -2.913844609988041e-16,
+    "_y": 9.712815366626804e-17,
+    "_z": 1.5862231254577637
+}
+_upVector = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 1,
+    "_z": 0
+}
+_orthoLeft = null
+_orthoRight = null
+_orthoBottom = null
+_orthoTop = null
+fov = 0.7878521207003342
+projectionPlaneTilt = 0
+minZ = 0.9731375575065613
+maxZ = 2.199307680130005
+inertia = 0.9
+_mode = 0
+isIntermediate = false
+viewport = {
+    "x": 0,
+    "y": 0,
+    "width": 1,
+    "height": 1
+}
+layerMask = 268435455
+fovMode = 0
+cameraRigMode = 0
+customRenderTargets = []
+onViewMatrixChangedObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+onProjectionMatrixChangedObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+onAfterCheckInputsObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+onRestoreStateObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+isRigCamera = false
+_rigCameras = []
+_webvrViewMatrix = {
+    "_isIdentity": true,
+    "_isIdentityDirty": false,
+    "_isIdentity3x2": true,
+    "_isIdentity3x2Dirty": false,
+    "updateFlag": 8172,
+    "_m": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 1,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 1
+    }
+}
+_skipRendering = false
+_projectionMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": false,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8202,
+    "_m": {
+        "0": 2.40585994720459,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2.40585994720459,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 2.587279796600342,
+        "11": 1,
+        "12": 0,
+        "13": 0,
+        "14": -3.4909167289733887,
+        "15": 0
+    }
+}
+_postProcesses = []
+_globalPosition = {
+    "_isDirty": true,
+    "_x": -2.913844609988041e-16,
+    "_y": 9.712815366626804e-17,
+    "_z": 1.5862231254577637
+}
+_computedViewMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": true,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8200,
+    "_m": {
+        "0": -1,
+        "1": 1.1248198179158957e-32,
+        "2": 1.8369701465288538e-16,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": -6.123234262925839e-17,
+        "7": 0,
+        "8": -1.8369701465288538e-16,
+        "9": -6.123234262925839e-17,
+        "10": -1,
+        "11": 0,
+        "12": 4.930380657631324e-32,
+        "13": 2.465190328815662e-32,
+        "14": 1.5862231254577637,
+        "15": 1
+    }
+}
+_doNotComputeProjectionMatrix = false
+_transformMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": false,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8177,
+    "_m": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0
+    }
+}
+_refreshFrustumPlanes = true
+_absoluteRotation = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0,
+    "_w": 1
+}
+_isCamera = true
+_isLeftCamera = false
+_isRightCamera = false
+renderPassId = 5
+_tmpUpVector = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+_tmpTargetVector = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+cameraDirection = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+cameraRotation = {
+    "x": 0,
+    "y": 0
+}
+ignoreParentScaling = false
+updateUpVectorFromRotation = false
+_tmpQuaternion = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0,
+    "_w": 1
+}
+rotation = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+speed = 0.32778859105525804
+noRotationConstraint = false
+invertRotation = false
+inverseRotationSpeed = 0.2
+lockedTarget = null
+_currentTarget = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+_initialFocalDistance = 1
+_viewMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": true,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8200,
+    "_m": {
+        "0": -1,
+        "1": 1.1248198179158957e-32,
+        "2": 1.8369701465288538e-16,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": -6.123234262925839e-17,
+        "7": 0,
+        "8": -1.8369701465288538e-16,
+        "9": -6.123234262925839e-17,
+        "10": -1,
+        "11": 0,
+        "12": 4.930380657631324e-32,
+        "13": 2.465190328815662e-32,
+        "14": 1.5862231254577637,
+        "15": 1
+    }
+}
+_camMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": false,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8181,
+    "_m": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0
+    }
+}
+_cameraTransformMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": false,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8183,
+    "_m": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0
+    }
+}
+_cameraRotationMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": false,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8185,
+    "_m": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0
+    }
+}
+_referencePoint = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 1
+}
+_transformedReferencePoint = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+_defaultUp = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 1,
+    "_z": 0
+}
+_cachedRotationZ = 0
+_cachedQuaternionRotationZ = 0
+inertialAlphaOffset = 0
+inertialBetaOffset = 0
+inertialRadiusOffset = 0
+lowerAlphaLimit = null
+upperAlphaLimit = null
+lowerBetaLimit = 0.01
+upperBetaLimit = 3.1315926535897933
+lowerRadiusLimit = 0.016389429552762902
+upperRadiusLimit = null
+inertialPanningX = 0
+inertialPanningY = 0
+pinchToPanMaxDistance = 20
+panningDistanceLimit = null
+panningOriginTarget = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+panningInertia = 0.9
+zoomOnFactor = 1
+targetScreenOffset = {
+    "x": 0,
+    "y": 0
+}
+allowUpsideDown = true
+useInputToRestoreState = true
+panningAxis = {
+    "_isDirty": true,
+    "_x": 1,
+    "_y": 1,
+    "_z": 0
+}
+_transformedDirection = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+mapPanning = false
+onMeshTargetChangedObservable = {
+    "_observers": [],
+    "_numObserversMarkedAsDeleted": 0,
+    "_eventState": {
+        "mask": 0,
+        "skipNextObservers": false
+    }
+}
+checkCollisions = false
+collisionRadius = {
+    "_isDirty": true,
+    "_x": 0.5,
+    "_y": 0.5,
+    "_z": 0.5
+}
+_previousPosition = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+_collisionVelocity = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+_newPosition = {
+    "_isDirty": true,
+    "_x": -2.913844609988041e-16,
+    "_y": 9.712815366626804e-17,
+    "_z": 1.5862231254577637
+}
+_computationVector = {
+    "_isDirty": true,
+    "_x": -2.913844609988041e-16,
+    "_y": 9.712815366626804e-17,
+    "_z": 1.5862231254577637
+}
+_onCollisionPositionChange = undefined
+_target = {
+    "_isDirty": true,
+    "_x": 0,
+    "_y": 0,
+    "_z": 0
+}
+_targetHost = null
+_targetBoundingCenter = null
+radius = 1.5862231254577637
+alpha = -4.71238898038469
+beta = 1.5707963267948966
+_yToUpMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": true,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8193,
+    "_m": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 1,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 1
+    }
+}
+_upToYMatrix = {
+    "_isIdentity": false,
+    "_isIdentityDirty": true,
+    "_isIdentity3x2": false,
+    "_isIdentity3x2Dirty": true,
+    "updateFlag": 8194,
+    "_m": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 1,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 1
+    }
+}
+camera mode = 0, position = {X: -2.913844609988041e-16 Y: 9.712815366626804e-17 Z: 1.5862231254577637}, target = {X: 0 Y: 0 Z: 0}, upVector = {X: 0 Y: 1 Z: 0}, fov = 0.7878521207003342, viewport = [0, 0, 1, 1]

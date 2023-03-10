@@ -1,0 +1,111 @@
+
+[trc] 00:04:00.0955:  0x5c8c -- Gfx::Model3DScene::Model3DScene C:\office\src\gfx\model3d\model3dscene.cpp(226) ...
+    this = 0x000001EAE21E8CB0
+DEBUG: Encode Base64
+DEBUG: ImportMesh
+DEBUG: animationGroups.length = 3
+DEBUG: onSuccess
+
+[trc] 00:04:02.0021:  0x462c -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000001EA80D69E90
+    scene = 0x000001EAE21E8CB0
+    renderMode = RasterizeE2o
+
+DEBUG: init texture size = [1280, 853]
+
+    renderer = 0x000001EA80D69E90
+
+[trc] 00:03:58.0723:  0x462c -- OSpectre::Babylon::Renderer::Render C:\office\src\graphics\spectre\babylon_renderer.cpp(165) ...
+    this = 0x000001EAE19719B0
+    viewport: xy = [0, 0], size = [1280, 853]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 1280
+    viewportHeight = 853
+camera mode = 0, position = {X: 0 Y: 0 Z: 1.5862231254577637}, target = {X: 0 Y: 0 Z: 0}, upVector = {X: 0 Y: 1 Z: 0}, fov = 0.5233942635519322
+
+[trc] 00:04:02.0129:  0x462c -- Gfx::Model3DScene::~Model3DScene C:\office\src\gfx\model3d\Model3D.h(49) ...
+    this = 0x000001EA810113A0
+
+[trc] 00:04:02.0140:  0x462c -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x000001EA80D69E90
+    renderMode = RasterizeE2o
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:04:02.0494:  0x462c -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000001EA8146B960
+    scene = 0x000001EAE21E8CB0
+    renderMode = RasterizeE2o
+
+DEBUG: init texture size = [447, 474]
+
+    renderer = 0x000001EA8146B960
+
+[trc] 00:03:59.0194:  0x462c -- OSpectre::Babylon::Renderer::Render C:\office\src\graphics\spectre\babylon_renderer.cpp(165) ...
+    this = 0x000001EAE91241C0
+    viewport: xy = [-203.167, -189.667], size = [853.333, 853.333]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 853.333
+    viewportHeight = 853.333
+camera mode = 0, position = {X: 0 Y: 0 Z: 1.5862231254577637}, target = {X: 0 Y: 0 Z: 0}, upVector = {X: 0 Y: 1 Z: 0}, fov = 0.7853981633974483
+
+[trc] 00:04:02.0550:  0x462c -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x000001EA8146B960
+    renderMode = RasterizeE2o
+
+[trc] 00:04:02.0571:  0x462c -- Gfx::Model3DScene::~Model3DScene C:\office\src\gfx\model3d\Model3D.h(49) ...
+    this = 0x000001EAE21E8CB0
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:04:02.0586:  0x462c -- Gfx::Model3DScene::Model3DScene C:\office\src\gfx\model3d\model3dscene.cpp(226) ...
+    this = 0x000001EACB18FB80
+DEBUG: Encode Base64
+DEBUG: ImportMesh
+DEBUG: animationGroups.length = 3
+DEBUG: onSuccess
+
+[trc] 00:04:12.0877:  0x462c -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000001EA8146A970
+    scene = 0x000001EACB18FB80
+    renderMode = RasterizeE2o
+
+DEBUG: init texture size = [502, 525]
+
+    renderer = 0x000001EA8146A970
+
+[trc] 00:04:09.0578:  0x462c -- OSpectre::Babylon::Renderer::Render C:\office\src\graphics\spectre\babylon_renderer.cpp(165) ...
+    this = 0x000001EAE9123290
+    viewport: xy = [-221.03, -209.53], size = [944.06, 944.06]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 944.06
+    viewportHeight = 944.06
+camera mode = 0, position = {X: 0 Y: 0 Z: 1.5862231254577637}, target = {X: 0 Y: 0 Z: 0}, upVector = {X: 0 Y: 1 Z: 0}, fov = 0.7853981633974483
+
+[trc] 00:04:12.0933:  0x462c -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x000001EA8146A970
+    renderMode = RasterizeE2o

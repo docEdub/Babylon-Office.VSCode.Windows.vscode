@@ -1,0 +1,111 @@
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:02:49.0386:  0x7f60 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000001E5E66E2B30
+    scene = 0x000001E5FCAA0AF0
+    renderMode = Play3DAnimation
+
+[trc] 00:02:49.0393:  0x7f60 -- Gfx::Model3DRenderer::Render C:\office\src\gfx\model3d\model3drenderer_win.cpp(173) ...
+
+DEBUG: init texture size = [480, 480]
+
+    renderer = 0x000001E5E66E2B30
+
+[trc] 00:02:46.0398:  0x7f60 -- OSpectre::Babylon::Renderer::Render C:\office\src\graphics\spectre\babylon_renderer.cpp(168) ...
+    this = 0x000001E580AA7ED0
+    viewport: xy = [0.833333, 0.833333], size = [480, 480]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = false
+    viewportWidth = 481.667
+    viewportHeight = 481.667
+    textureWidth = 480
+    textureHeight = 480
+    left = 0.833333
+    right = 480.833
+    top = 0.833333
+    bottom = 480.833
+    centerX = 240.833
+    centerY = 240.833
+    vpX = -3.16791e-08
+    vpY = -3.16791e-08
+    vpWidth = 0.99654
+    vpHeight = 0.99654
+    fov degs = 45.1406
+    fov = 0.787852
+camera mode = 0, position = {X: 0 Y: 0 Z: 1.5862231254577637}, target = {X: 0 Y: 0 Z: 0}, upVector = {X: 0 Y: 1 Z: 0}, fov = 0.785398, viewport = [-3.167914641721836e-8, -3.167914641721836e-8, 0.996539831161499, 0.996539831161499]
+
+[trc] 00:05:21.0491:  0x7f60 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x000001E5E66E2B30
+    renderMode = Play3DAnimation
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================================================================================================================================================
+
+
+
+
+
+
+
+
+
+
+[trc] 00:05:21.0518:  0x7f60 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000001E583C73550
+    scene = 0x000001E5FCAA0AF0
+    renderMode = Play3DAnimation
+
+[trc] 00:05:21.0525:  0x7f60 -- Gfx::Model3DRenderer::Render C:\office\src\gfx\model3d\model3drenderer_win.cpp(173) ...
+
+DEBUG: init texture size = [1137, 1137]
+
+    renderer = 0x000001E583C73550
+
+[trc] 00:05:18.0528:  0x7f60 -- OSpectre::Babylon::Renderer::Render C:\office\src\graphics\spectre\babylon_renderer.cpp(168) ...
+    this = 0x000001E581B4FB50
+    viewport: xy = [0, 0.833333], size = [1136.67, 1135.83]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = false
+    viewportWidth = 1138.33
+    viewportHeight = 1137.5
+    textureWidth = 1137
+    textureHeight = 1137
+    left = 0
+    right = 1136.67
+    top = 0.833333
+    bottom = 1136.67
+    centerX = 568.333
+    centerY = 568.75
+    vpX = 0.000732582
+    vpY = -5.36573e-08
+    vpWidth = 0.998828
+    vpHeight = 0.999561
+    fov degs = 45.0594
+    fov = 0.786435
+camera mode = 0, position = {X: 0 Y: 0 Z: 1.5862231254577637}, target = {X: 0 Y: 0 Z: 0}, upVector = {X: 0 Y: 1 Z: 0}, fov = 0.785398, viewport = [0.000732582004275173, -5.3657284837527186e-8, 0.9988276958465576, 0.999560534954071]

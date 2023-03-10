@@ -1,0 +1,400 @@
+-------------------------------------------------------------------
+You may only use the C/C++ Extension for Visual Studio Code
+with Visual Studio Code, Visual Studio or Visual Studio for Mac
+software to help you develop and test your applications.
+-------------------------------------------------------------------
+NetUI BinaryReader - Error : ElementListener not found: GalleryRefreshButtonInputHandler
+Pane component activating [Workpane]
+ReactNative ['sdx_collabml.app'] (warning): 'Require cycle: ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\EventFlagFiller.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js
+
+Require cycles are allowed, but can result in uninitialized values. Consider refactoring to remove the need for a cycle.'
+ReactNative ['sdx_collabml.app'] (warning): 'Require cycle: ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\SimpleTelemetryLogger.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js
+
+Require cycles are allowed, but can result in uninitialized values. Consider refactoring to remove the need for a cycle.'
+onecoreuap\base\appmodel\search\structuredquery\schemaengine\schemaengine.cpp(3058)\StructuredQuery.dll!00007FFEC128326E: (caller: 00007FFEC1264FF2) ReturnHr(1) tid(2cd0) 8000FFFF Catastrophic failure
+    CallContext:[\SchemaBinaryLoadBinary]
+onecoreuap\base\appmodel\search\structuredquery\schemaengine\schemaengine.cpp(3058)\StructuredQuery.dll!00007FFEC128326E: (caller: 00007FFEC1264FF2) ReturnHr(2) tid(33f0) 8000FFFF Catastrophic failure
+    CallContext:[\SchemaBinaryLoadBinary]
+onecoreuap\shell\propsys\memorymappedcache\version.cpp(210)\PROPSYS.dll!00007FFEE8C09637: (caller: 00007FFEE8BCD9E7) ReturnHr(2) tid(33f0) 80070490 Element not found.
+onecoreuap\shell\propsys\memorymappedcache\version.cpp(210)\PROPSYS.dll!00007FFEE8C09637: (caller: 00007FFEE8BCD9E7) ReturnHr(1) tid(2cd0) 80070490 Element not found.
+onecoreuap\shell\propsys\memorymappedcache\version.cpp(210)\PROPSYS.dll!00007FFEE8C09637: (caller: 00007FFEE8BCD9E7) ReturnHr(3) tid(2cd0) 80070490 Element not found.
+NetUI BinaryReader - Error : ElementListener not found: GalleryRefreshButtonInputHandler
+Pane component deactivating [voluntarily]
+Pane component activating [Workpane]
+Pane component deactivating [voluntarily]
+MsoMakeFindFile: Thread 17316 never called DLL_THREAD_ATTACH on MSO97, assigning 0000000000000000 as context
+MsoMakeFindFile: Thread 17316 never called DLL_THREAD_ATTACH on MSO97, assigning 0000000000000000 as context
+*** ASSERT FAILED: Input parameter LanguagesBuffer for function RtlSetThreadPreferredUILanguages is not a valid multi-string!
+mincore\com\oleaut32\dispatch\ups.cpp(2126)\OLEAUT32.dll!00007FFEF0B3469C: (caller: 00007FFEF0B3498A) ReturnHr(1) tid(43a4) 8002801D Library not registered.
+onecore\vm\dv\storage\plan9\rdr\dll\util.cpp(99)\p9np.dll!00007FFEBC18F0CC: (caller: 00007FFEBC1893B0) LogHr(1) tid(2c4c) C0000034     Msg:[瑎牃慥整楆敬☨敤楶散‬奓䍎剈乏婉ⱅ☠瑡牴扩瑵獥‬椦卯慴畴ⱳ渠汵灬牴‬䥆䕌䅟呔䥒啂䕔也剏䅍ⱌ⠠䥆䕌卟䅈䕒剟䅅⁄⁼䥆䕌卟䅈䕒坟䥒䕔簠䘠䱉彅䡓剁彅䕄䕌䕔Ⱙ䘠䱉彅偏久‬䥆䕌卟乙䡃佒低单䥟彏低䅎䕌呒‬畮汬瑰Ⱳ〠)]
+onecore\com\combase\dcomrem\security.cxx(2999)\combase.dll!00007FFEF1BC505E: (caller: 00007FFE985BF80A) ReturnHr(1) tid(b28) 80010117 Call context cannot be accessed after call completed.
+onecore\com\combase\dcomrem\security.cxx(2999)\combase.dll!00007FFEF1BC505E: (caller: 00007FFE985BF80A) ReturnHr(2) tid(b28) 80010117 Call context cannot be accessed after call completed.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:00.0004:  0x1490 -- Gfx::Model3DScene::Model3DScene C:\office\src\gfx\model3d\model3dscene.cpp(226) ...
+    this = 0x000002041B10F000
+
+[trc] 00:00:00.0504:  0x43a4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000002041901C9C0
+    scene = 0x000002041B10F000
+    renderMode = RasterizeE2o
+
+[trc] 00:00:00.0513:  0x43a4 -- Gfx::Model3DRenderer::Render C:\office\src\gfx\model3d\model3drenderer_win.cpp(173) ...
+Adapter=Microsoft Basic Render Driver; Feature Level=0xb100
+
+    renderer = 0x000002041901C9C0
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:00.0003:  0x43a4 -- OSpectre::Renderer::Render C:\office\src\graphics\spectre\renderer.cpp(154) ...
+    this = 0x000002041C3A4E90
+    viewport: xy = [0, 0], size = [1280, 853]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 1280
+    viewportHeight = 853
+    fov = 45
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:07.0752:  0x43a4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x000002041901C9C0
+    renderMode = RasterizeE2o
+
+[trc] 00:00:08.0474:  0x43a4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000002043ABEE5C0
+    scene = 0x000002041B10F000
+    renderMode = RasterizeE2o
+
+[trc] 00:00:08.0492:  0x43a4 -- Gfx::Model3DRenderer::Render C:\office\src\gfx\model3d\model3drenderer_win.cpp(173) ...
+
+    renderer = 0x000002043ABEE5C0
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:00:07.0956:  0x43a4 -- OSpectre::Renderer::Render C:\office\src\graphics\spectre\renderer.cpp(154) ...
+    this = 0x000002043457A2F0
+    viewport: xy = [-203.167, -189.667], size = [853.333, 853.333]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 853.333
+    viewportHeight = 853.333
+    fov = 45
+
+[trc] 00:00:08.0629:  0x43a4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x000002043ABEE5C0
+    renderMode = RasterizeE2o
+
+[trc] 00:00:08.0678:  0x43a4 -- Gfx::Model3DScene::~Model3DScene C:\office\src\gfx\model3d\Model3D.h(49) ...
+    this = 0x000002041B10F000
+
+[trc] 00:00:08.0692:  0x43a4 -- Gfx::Model3DScene::Model3DScene C:\office\src\gfx\model3d\model3dscene.cpp(226) ...
+    this = 0x0000020419176820
+
+[trc] 00:00:09.0028:  0x43a4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000002043ABF12C0
+    scene = 0x0000020419176820
+    renderMode = Play3DAnimation
+
+[trc] 00:00:09.0038:  0x43a4 -- Gfx::Model3DRenderer::Render C:\office\src\gfx\model3d\model3drenderer_win.cpp(173) ...
+
+    renderer = 0x000002043ABF12C0
+
+[trc] 00:00:08.0494:  0x43a4 -- OSpectre::Renderer::Render C:\office\src\graphics\spectre\renderer.cpp(154) ...
+    this = 0x000002043457A2F0
+    viewport: xy = [0.833333, 0.833333], size = [480, 480]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = false
+    viewportWidth = 481.667
+    viewportHeight = 481.667
+    fov = 45.1406
+
+[trc] 00:00:09.0209:  0x43a4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000020419A09B90
+    scene = 0x0000020419176820
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:09.0219:  0x43a4 -- Gfx::Model3DRenderer::Render C:\office\src\gfx\model3d\model3drenderer_win.cpp(173) ...
+
+    renderer = 0x0000020419A09B90
+
+[trc] 00:00:08.0675:  0x43a4 -- OSpectre::Renderer::Render C:\office\src\graphics\spectre\renderer.cpp(154) ...
+    this = 0x000002043030DE70
+    viewport: xy = [0, 0], size = [192, 144]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 192
+    viewportHeight = 144
+    fov = 45
+
+[trc] 00:00:09.0293:  0x43a4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x0000020419A09B90
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:09.0327:  0x43a4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000002043ABEF3D0
+    scene = 0x0000020419176820
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:09.0338:  0x43a4 -- Gfx::Model3DRenderer::Render C:\office\src\gfx\model3d\model3drenderer_win.cpp(173) ...
+
+    renderer = 0x000002043ABEF3D0
+
+[trc] 00:00:08.0794:  0x43a4 -- OSpectre::Renderer::Render C:\office\src\graphics\spectre\renderer.cpp(154) ...
+    this = 0x000002041B01C7F0
+    viewport: xy = [0, 0], size = [192, 144]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 192
+    viewportHeight = 144
+    fov = 45
+
+[trc] 00:00:09.0416:  0x43a4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x000002043ABEF3D0
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:09.0430:  0x43a4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000002043ABF1770
+    scene = 0x0000020419176820
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:09.0440:  0x43a4 -- Gfx::Model3DRenderer::Render C:\office\src\gfx\model3d\model3drenderer_win.cpp(173) ...
+
+    renderer = 0x000002043ABF1770
+
+[trc] 00:00:08.0897:  0x43a4 -- OSpectre::Renderer::Render C:\office\src\graphics\spectre\renderer.cpp(154) ...
+    this = 0x000002041B01A120
+    viewport: xy = [0, 0], size = [192, 144]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973141
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 192
+    viewportHeight = 144
+    fov = 45
+
+[trc] 00:00:09.0509:  0x43a4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x000002043ABF1770
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:09.0524:  0x43a4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000002043ABEE3E0
+    scene = 0x0000020419176820
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:09.0534:  0x43a4 -- Gfx::Model3DRenderer::Render C:\office\src\gfx\model3d\model3drenderer_win.cpp(173) ...
+
+    renderer = 0x000002043ABEE3E0
+
+[trc] 00:00:08.0990:  0x43a4 -- OSpectre::Renderer::Render C:\office\src\graphics\spectre\renderer.cpp(154) ...
+    this = 0x000002041B01DA80
+    viewport: xy = [0, 0], size = [192, 144]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973139
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 192
+    viewportHeight = 144
+    fov = 45
+
+[trc] 00:00:09.0603:  0x43a4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x000002043ABEE3E0
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:09.0616:  0x43a4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x0000020434826680
+    scene = 0x0000020419176820
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:09.0625:  0x43a4 -- Gfx::Model3DRenderer::Render C:\office\src\gfx\model3d\model3drenderer_win.cpp(173) ...
+
+    renderer = 0x0000020434826680
+
+[trc] 00:00:09.0081:  0x43a4 -- OSpectre::Renderer::Render C:\office\src\graphics\spectre\renderer.cpp(154) ...
+    this = 0x000002041B01D720
+    viewport: xy = [0, 0], size = [192, 144]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 192
+    viewportHeight = 144
+    fov = 45
+
+[trc] 00:00:09.0705:  0x43a4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x0000020434826680
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:09.0735:  0x43a4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000002043ABF1770
+    scene = 0x0000020419176820
+    renderMode = GalleryThumbnail
+
+[trc] 00:00:09.0745:  0x43a4 -- Gfx::Model3DRenderer::Render C:\office\src\gfx\model3d\model3drenderer_win.cpp(173) ...
+
+    renderer = 0x000002043ABF1770
+
+[trc] 00:00:09.0202:  0x43a4 -- OSpectre::Renderer::Render C:\office\src\graphics\spectre\renderer.cpp(154) ...
+    this = 0x000002041B01CD00
+    viewport: xy = [0, 0], size = [192, 144]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973135
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 192
+    viewportHeight = 144
+    fov = 45
+
+[trc] 00:00:09.0830:  0x43a4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x000002043ABF1770
+    renderMode = GalleryThumbnail
+ReactNative ['AugLoop'] (warning): 'Require cycle: ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\EventFlagFiller.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js
+
+Require cycles are allowed, but can result in uninitialized values. Consider refactoring to remove the need for a cycle.'
+ReactNative ['AugLoop'] (warning): 'Require cycle: ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\SimpleTelemetryLogger.js -> ..\..\..\node_modules\@ms\oteljs\dist-cjs\index.js
+
+Require cycles are allowed, but can result in uninitialized values. Consider refactoring to remove the need for a cycle.'
+ReactNative ['AugLoop'] (warning): '`new NativeEventEmitter()` was called with a non-null argument without the required `addListener` method.'
+ReactNative ['AugLoop'] (warning): '`new NativeEventEmitter()` was called with a non-null argument without the required `removeListeners` method.'
+ReactNative ['sdx_collabml.app'] (warning): '`new NativeEventEmitter()` was called with a non-null argument without the required `addListener` method.'
+ReactNative ['sdx_collabml.app'] (warning): '`new NativeEventEmitter()` was called with a non-null argument without the required `removeListeners` method.'
+
+
+======================================================================
+pressing orbit button ...
+======================================================================
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:01:28.0216:  0x43a4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000002040192EC30
+    scene = 0x0000020419176820
+    renderMode = EditRotate
+
+[trc] 00:01:28.0224:  0x43a4 -- Gfx::Model3DRenderer::Render C:\office\src\gfx\model3d\model3drenderer_win.cpp(173) ...
+
+    renderer = 0x000002040192EC30
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[trc] 00:01:27.0680:  0x43a4 -- OSpectre::Renderer::Render C:\office\src\graphics\spectre\renderer.cpp(154) ...
+    this = 0x000002041C3965F0
+    viewport: xy = [0, 0], size = [480.833, 480.833]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = false
+    viewportWidth = 480.833
+    viewportHeight = 480.833
+    fov = 45
+
+[trc] 00:01:28.0394:  0x43a4 -- Gfx::Model3DRenderer::Model3DRenderer C:\office\src\gfx\model3d\model3drenderer.cpp(472) ...
+    this = 0x000002047FCE9D30
+    scene = 0x0000020419176820
+    renderMode = RasterizeE2o
+
+[trc] 00:01:28.0403:  0x43a4 -- Gfx::Model3DRenderer::Render C:\office\src\gfx\model3d\model3drenderer_win.cpp(173) ...
+
+    renderer = 0x000002047FCE9D30
+
+[trc] 00:01:27.0856:  0x43a4 -- OSpectre::Renderer::Render C:\office\src\graphics\spectre\renderer.cpp(154) ...
+    this = 0x000002041C3980F0
+    viewport: xy = [-203.167, -189.667], size = [853.333, 853.333]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = true
+    viewportWidth = 853.333
+    viewportHeight = 853.333
+    fov = 45
+
+[trc] 00:01:28.0463:  0x43a4 -- Gfx::Model3DRenderer::~Model3DRenderer C:\office\src\gfx\model3d\model3drenderer_win.cpp(74) ...
+    this = 0x000002047FCE9D30
+    renderMode = RasterizeE2o
+
+[trc] 00:01:28.0513:  0x467c -- Gfx::Model3DRenderer::Render C:\office\src\gfx\model3d\model3drenderer_win.cpp(173) ...
+
+    renderer = 0x000002043ABF12C0
+
+[trc] 00:01:27.0977:  0x43a4 -- OSpectre::Renderer::Render C:\office\src\graphics\spectre\renderer.cpp(154) ...
+    this = 0x000002043457A2F0
+    viewport: xy = [0.833333, 0.833333], size = [480, 480]
+    cameraTransform = {
+       projection type = Perspective
+       position    = [0, 0, 1.58622]
+       target      = [0, 0, 0]
+       up vector   = [0, 1, 0]
+       fov degrees = 45
+       near clip   = 0.973138
+       far clip    = 2.19931
+    fClipped = false
+    viewportWidth = 481.667
+    viewportHeight = 481.667
+    fov = 45.1406
